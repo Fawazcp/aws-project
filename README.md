@@ -841,4 +841,4 @@ Wait for some time until it gets disabled. After some time you can see the delet
 -	Get the backend application information from RDS, Elasticache, and AmazonMQ
 
 
-**Happy Learning ** 💜
+**Happy Learning** 💜
