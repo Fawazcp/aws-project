@@ -750,7 +750,7 @@ Let’s think our audience is growing and we want our application is available g
 
 ### Step 7
 
-**** Create CloudFront (Content Delivery Network [CDN])****
+**Create CloudFront (Content Delivery Network [CDN])**
 
 ![image](https://github.com/Fawazcp/aws-project/assets/111639918/f995832e-a460-4b33-9c18-5a5b72d143b5)
 
