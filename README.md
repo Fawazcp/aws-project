@@ -32,7 +32,7 @@ The idea behind this project is;
 -	Improve business continuity
 
 
-In this project instead of using IAAS service we use PAAS and SAAS services
+In this project instead of using IAAS service we use PAAS service
 
 For the frontend app we use EBS service (Elastic BeanStalk)
 
