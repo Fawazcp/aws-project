@@ -22,7 +22,8 @@ You may be charged for the domain name and other services used for this project.
 
 # Refactoring with AWS
 
-Add the arvhitecture
+![Untitled Diagram.drawio.png](https://github.com/Fawazcp/aws-project/blob/aws-Refactor/Untitled%20Diagram.drawio.png)
+
 
 It is a multi-tier web application stack want to re-architect in the cloud.
 
